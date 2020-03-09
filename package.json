@@ -1,24 +1,19 @@
 {
-  "name": "y",
+  "name": "react-excel",
   "version": "1.0.0",
-  "description": "react.js",
-  "main": "n",
-  "dependencies": {
-    "babelify": "^10.0.0"
-  },
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
   "devDependencies": {
-    "@babel/core": "^7.8.6",
-    "@babel/preset-env": "^7.8.6",
-    "browserify": "^16.5.0",
-    "gulp": "^4.0.2",
-    "gulp-babel": "^8.0.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
     "react": "^16.13.0",
-    "react-dom": "^16.13.0",
-    "vinyl-source-stream": "^2.0.0"
+    "react-dom": "^16.13.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "takeshi",
+  "keywords": [],
+  "author": "",
   "license": "ISC"
 }
