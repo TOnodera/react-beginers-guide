@@ -1,7 +1,10 @@
-import React from 'react-dom';
+import React from 'react';
 
-export default class Logo extends React.Component {
+class Logo extends React.Component{
     render(){
-        return <div className='Logo' />
+        console.log(React.Component);
+        return <div className='Logo' />;
     }
 }
+
+export default Logo;
