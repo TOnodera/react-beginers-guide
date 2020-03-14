@@ -5,4 +5,4 @@ browserify js/build/app.js -o bundle.js
 #cssのパッケージング
 cat css/*/* css/*.css | sed 's/..\/..\/images/images/g' > bundle.css
 #完了
-date; echo;
+date;

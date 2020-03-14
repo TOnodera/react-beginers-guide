@@ -240,7 +240,6 @@ var Logo = function (_React$Component) {
     _createClass(Logo, [{
         key: 'render',
         value: function render() {
-            console.log(_react2.default.Component);
             return _react2.default.createElement('div', { className: 'Logo' });
         }
     }]);

@@ -2,8 +2,7 @@ import React from 'react';
 
 class Logo extends React.Component{
     render(){
-        console.log(React.Component);
-        return <div className='Logo' />;
+        return <div className='Logo'/>;
     }
 }
 
